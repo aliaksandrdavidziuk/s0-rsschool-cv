@@ -1,20 +1,20 @@
-#CV Aliaksandr
+# CV Aliaksandr
 
-##Name:
+## Name:
 Aliaksandr Davidziuk
 
-##Contacts:
+## Contacts:
 [aliaksandr.davidziuk@gmail.com](mailto:aliaksandr.davidziuk@gmail.com)
 
-##Information
+## Information
 I want to learn JS
 
-##Languages:
+## Languages:
 SAP ABAP
 SQL
 etc.
 
-##Code from Codewars:
+## Code from Codewars:
 ```javascript
 function doubleInteger(i) {
   // i will be an integer. Double it and return it.
@@ -23,11 +23,11 @@ function doubleInteger(i) {
 }
 ```
 
-##Experience:
+## Experience:
 10 years in SAP ABAP
 
-##Education:
+## Education:
 MhD of radiophysics and information security
 
-##English
+## English
 B2
